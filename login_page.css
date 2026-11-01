@@ -1,0 +1,32 @@
+*{
+    background-color: rgb(148, 226, 31);
+}
+
+div{
+    color: white;
+    
+}
+
+.div1{
+    width: 240px;
+    background: white;
+    padding: 34px;
+    border-radius: 6px;
+
+}
+
+.div2{
+    width: 240px;
+    background: white;
+    padding: 34px;
+    border-radius: 6px;
+
+}
+
+.div3{
+    width: 240px;
+    background: white;
+    padding: 34px;
+    border-radius: 6px;
+
+}
